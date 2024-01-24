@@ -1,0 +1,41 @@
+.userNames {
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 100px;
+}
+.users {
+	width: 200px;
+	height: 270px;
+	background-color: blueviolet;
+  border-radius: 30px;
+}
+
+.buttons {
+  margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.button1 {
+	width: 200px;
+	height: 30px;
+	background-color: tan;
+	border-radius: 20px;
+}
+.button2 {
+	width: 200px;
+	height: 30px;
+	background-color: tan;
+	border-radius: 20px;
+}
+
+input {
+  margin-top: 20px;
+  width: 170px;
+  height: 30px;
+  border-radius: 20px;
+}
